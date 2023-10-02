@@ -2,7 +2,7 @@
 <div align="center">
 <img width="250px"src="https://avatars.githubusercontent.com/u/72195146?v=4" alt="Sahil Kumar" />
 <h1 align="center">Sahil Kumar</h1>
-<p align="center">A passionate engineer with keen interest in Programming.</p>
+<p align="center">A passionate Computer Science Engineer with keen interest in Programming.</p>
 </div>
 Here are some ideas to get you started:
 
