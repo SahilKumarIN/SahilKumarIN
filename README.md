@@ -10,13 +10,13 @@
 
 - 👯 I’m looking to collaborate on **React-Native**
 
-- 👨‍💻 All of my projects are available at [https://krsahil.tech/](https://krsahil.tech/)
+- 👨‍💻 All of my projects are available at [https://sahil-app-hub.netlify.app/](https://sahil-app-hub.netlify.app/)
 
 - 💬 Ask me about **React-Native**
 
 - 📫 How to reach me **rudrasahil3@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://krsahil.tech/Assets/resume.pdf)
+- 📄 Know about my experiences [Resume](./Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
