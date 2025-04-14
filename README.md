@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **rudrasahil3@gmail.com**
 
-- 📄 Know about my experiences [Resume](./Resume.pdf)
+- 📄 Know about my experiences [Resume](./SahilKumarResume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
